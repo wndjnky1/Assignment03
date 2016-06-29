@@ -213,8 +213,9 @@ for (var i=0; i<employees.length; i++){
 */ 
  
 /*
+//
 // STEP 16
-
+//
 var movies = [['Dirty Dancing', 1],['The Matrix', 2],['Monty Python', 3],['Point Break', 4],['Rocky Horror Picture Show', 5]];
 var i, j;
 for (i in movies) {
@@ -227,7 +228,7 @@ var myTitles = movies[i].filter(function(item) {
 }
 */
 
-
+//
 // PRACTICE WITH FUNCTIONS
 /*   
 // STEP 1

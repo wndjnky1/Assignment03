@@ -1,4 +1,4 @@
-//
+
 // COMM644:Assignment 3 - Part 2
 //
 
@@ -139,7 +139,6 @@ console.log(myWords[0].charAt(0).toUpperCase() + myWords[0].slice(1) + ' ' +
 // call function capMe
 capMe('how now brown cow where goest thou');
 //
-//
 */
 
 /*
@@ -180,7 +179,7 @@ var randomStr = function() {
 }
 console.log(randomStr(''))  ;  
 //
-//
+
 */
 
 /*
